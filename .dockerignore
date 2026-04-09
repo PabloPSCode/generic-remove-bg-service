@@ -1,0 +1,12 @@
+node_modules
+dist
+npm-debug.log
+.git
+.gitignore
+.env
+.idea
+.vscode
+*.md
+resultado.png
+debug-*.png
+debug-*.jpg
